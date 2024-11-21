@@ -1,0 +1,298 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: #eceff4;
+    padding: 100px;
+}
+.container{
+background-color: rgb(255, 255, 255);
+display: flex;
+padding:100px;
+width: 100%;
+height: 150vh;
+}
+.container .form-1{
+    background-color: #f0f3f9;
+    border-radius: 5px;
+    margin-top: 230px;
+    width: 682px;
+    height: 69vh;
+    padding: 30px;
+    position: absolute;
+    margin-left: 470px;
+}
+.container .h1-1{
+    margin-top: -50px;
+margin-left: 57.4rem;
+position: absolute;
+}
+.container .a-i-1{
+    margin-top: 80px;
+    position: absolute;
+    text-decoration: none;
+    background-color: #db0404;
+    width: 320px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 828px;
+}
+.container .a-i-2{
+    position: absolute;
+    margin-top: 80px;
+    text-decoration: none;
+    background-color: rgb(17, 17, 189);
+    color: #fff;
+    font-size: 20px;
+    width: 320px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 470px;
+}
+.container .form-1 .checkbox-a{
+    display: flex;
+    position: absolute;
+}
+.container .form-1 .checkbox-a .a-3{
+    text-decoration: none;
+color: #000;
+margin-top: 28px;
+margin-left: 250px;
+}
+.container .form-1 .input-checkbox{
+    position: absolute;
+    cursor: pointer;
+margin-top:30px ;
+margin-left: 600px;
+ border-radius: 0px;
+ width: 20px;
+ height: 20px;
+}
+.container .form-1 .a-3 span{
+    color: #2600ff;
+}
+.container .fa-brands{
+    font-size: 30px;
+}
+.container .h2-1{
+margin-top: 160px;
+margin-left: 610px;
+}
+.container form .namefamily{
+    width: 300px;
+    padding: 9px;
+    margin-top: 50px;
+    text-align: end;
+}
+.container form .email{
+    width: 100%;
+    padding: 9px;
+    text-align: end;
+    margin-top: 50px;
+}
+.container form .password{
+    width: 100%;
+    padding: 9px;
+    text-align: end;
+    margin-top: 50px;
+}
+.container form .h2-password{
+    margin-left: 512px;
+    position: absolute;
+}
+.container form .span-password{
+    margin-left: -15px;
+    position: absolute;
+    color: #fc5353;
+}
+.container form .h2-namefamily{
+    margin-left: 173px;
+    position: absolute;
+}
+.container form .span-namefamily{
+    margin-left: -15px;
+    position: absolute;
+    color: #fc5353;
+}
+.container form .h2-name{
+    margin-left: 569px;
+    position: absolute;
+}
+.container form .span-name{
+    margin-left: -15px;
+    position: absolute;
+    color: #fc5353;
+}
+.container form .h2-email{
+    margin-left: 468px;
+    position: absolute;
+}
+.container form .span-email{
+    margin-left: -15px;
+    position: absolute;
+    color: #fc5353;
+}
+.container form .button{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 410px;
+    color: #fff;
+    background-color: #2caae2;
+    border: solid 0;
+    border-color: #2caae2;
+    padding: 15px;
+    width: 190px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.container .form-1 .name{
+    text-align: end;
+    margin-left: 10%;
+    width: 300px;
+    padding: 9px;
+    margin-top: 50px;
+}
+.container .form-1 .box2{
+    display: flex;
+}
+.container2{
+    position: absolute;
+    margin-left: 400px;
+    padding: 50px;
+}
+.container2 h1{
+    position: absolute;
+    margin-left: -300px;
+    margin-top: 0px;
+}
+.container2 img{
+    cursor: pointer;
+    position: absolute;
+    margin-top:115px ;
+}
+.checkbox-a{
+    position: absolute;
+}
+.container1 .container2 .sendian{
+position: absolute;
+margin-top: 98px;
+margin-left: -100px;
+font-size:28px;
+}
+.container1 .container2 .ana-p{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: -250px;
+}
+.container1 .container2 .mostaqle-p{
+    position: absolute;
+    margin-top: 260px;
+    margin-left: -185px;
+}
+.container1 .container2 .khamsat-p{
+    position: absolute;
+    margin-top: 325px;
+    margin-left: -240px;
+}
+.container1 .container2 .pikalika-p{
+    position: absolute;
+    margin-top: 389px;
+    margin-left: -230px;
+}
+.container1 .container2 .baeed-p{
+    position: absolute;
+    margin-top: 441px;
+    margin-left: -118px;
+}
+.container1 .container2 .zaiton-p{
+    position: absolute;
+    margin-top: 509px;
+    margin-left: -247px;
+}
+.container1 .container2 .hassob-p{
+    position: absolute;
+    margin-top:580px ;
+    margin-left: -159px;
+}
+.container1 .container2 .mosoaa-p{
+    position: absolute;
+    margin-top: 638px;
+    margin-left: -181px;
+}
+.container1 .container2 .io-p{
+    position: absolute;
+    margin-top: 710px;
+    margin-left: -240px;
+}
+.container1 .container2 .sendian-p{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: -278px;
+}
+.container1 .container2 .ana{
+position: absolute;
+margin-top: 165px;
+margin-left: -45px;
+font-size:28px;
+}
+.container1 .container2 .mostaqle{
+position: absolute;
+margin-top: 220px;
+margin-left: -105px;
+font-size:28px;
+}
+.container1 .container2 .khamsat{
+position: absolute;
+margin-top: 288px;
+margin-left: -111px;
+font-size:28px;
+}
+.container1 .container2 .pikalika{
+position: absolute;
+margin-top: 345px;
+margin-left: -105px;
+font-size:28px;
+}
+.container1 .container2 .baeed{
+position: absolute;
+margin-top: 400px;
+margin-left: -75px;
+font-size:28px;
+}
+.container1 .container2 .zaiton{
+position: absolute;
+margin-top: 465px;
+margin-left: -92px;
+font-size:28px;
+}
+.container1 .container2 .hassob{
+position: absolute;
+margin-top: 540px;
+margin-left: -211px;
+font-size:28px;
+}
+.container1 .container2 .mosoaa{
+position: absolute;
+margin-top: 595px;
+margin-left: -219px;
+font-size:28px;
+}
+.container1 .container2 .io{
+position: absolute;
+margin-top: 673px;
+margin-left: -165px;
+font-size:28px;
+}
+.container1  #namefamilyeroor{
+margin-top: 100px;
+margin-left: -90px;
+}
+.container1  #nameERORR{
+    margin-top: 100px;
+    margin-left: 330px;
+}
